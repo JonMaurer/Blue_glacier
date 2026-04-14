@@ -2,3 +2,8 @@ Week of: 04/09/2026
 - ReadMe update
 - Interpolate fields
 - SMB field first pass
+
+Week of 04/14/2026
+- SMB field
+- Sliding Law 
+- Update code on git
