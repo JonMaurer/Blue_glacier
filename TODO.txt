@@ -3,7 +3,12 @@ Week of: 04/09/2026
 - Interpolate fields
 - SMB field first pass
 
-Week of 04/14/2026
+Week of: 04/14/2026
 - SMB field
 - Sliding Law 
 - Update code on git
+
+Week of: 4/21/2026
+- Tuning lambda 
+- Tuning U_0
+- PPT of those outputs
