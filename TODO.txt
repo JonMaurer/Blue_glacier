@@ -13,4 +13,8 @@ Week of: 4/21/2026
 - Tuning U_0
 - Generate reasonable smb field
 - PPT of those outputs
+
+Week of: 4/28/2026
+- Time dependent initial steps
+- Something resembling steady state SMB curve
 - Next week: NetCDFs/ERA5 freezing levels and SMB 
