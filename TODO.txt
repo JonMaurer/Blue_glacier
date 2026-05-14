@@ -25,4 +25,4 @@ Week of: 5/14/2026
 - Full time dependent runs w/ volume change 
 - Data viz of results
 - prognostic tuning of sliding param, SMB w/ comparison slides
-- update color bars for plots
+- think up experiments
