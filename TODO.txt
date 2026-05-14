@@ -17,4 +17,12 @@ Week of: 4/21/2026
 Week of: 4/28/2026
 - Time dependent initial steps
 - Something resembling steady state SMB curve
-- Next week: NetCDFs/ERA5 freezing levels and SMB 
+
+Week of 5/7/2026
+- Skipped (Sick)
+
+Week of: 5/14/2026
+- Full time dependent runs w/ volume change 
+- Data viz of results
+- prognostic tuning of sliding param, SMB w/ comparison slides
+- update color bars for plots
